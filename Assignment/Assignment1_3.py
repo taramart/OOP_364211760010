@@ -17,3 +17,6 @@ PID = getPID()
 print(f'เลขบัตรประชาชน: {sum(PID)}')
 print(f'ทำนายดวงชะตา: {getFortune(sum(PID))}')
 print("********************")
+
+
+print ("hello,MIT221")
