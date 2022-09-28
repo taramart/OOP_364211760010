@@ -47,7 +47,7 @@ class Labtop:
 
     def get_price(self):
         return self.__price
-    def set_name(self, price):
+    def set_price(self, price):
         self.__price = price
 
     def __str__(self):
